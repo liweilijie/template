@@ -38,6 +38,8 @@ cargo install cargo-generate
 
 ```bash
 cargo generate tyr-rust-bootcamp/template
+cargo generate liweilijie/template
+cargo generate --path /Users/liwei/Desktop/rs/template
 ```
 
 ### 安装 pre-commit
