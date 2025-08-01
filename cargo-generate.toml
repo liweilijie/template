@@ -1,0 +1,9 @@
+[template]
+# Exclude files that contain template syntax that conflicts with cargo-generate
+# and files that should not be included in templates
+exclude = [
+    "cliff.toml",
+    "target/",
+    "Cargo.lock",
+    ".git/",
+] 
